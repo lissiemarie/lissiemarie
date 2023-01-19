@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @lissiemarie!
+- 👋 Hi, I’m Elyssa Creed!
 - 👀 I’m interested in transitioning from being a Military Musician to a Software Engineer!
-- 🌱 I’m currently learning JavaScript, HTML, and CSS.
+- 🌱 I’m currently learning JavaScript, HTML, and CSS, as well as Bootstrap and React.
 - 📫 You can reach me on my Instagram page @ https://www.instagram.com/elyssa_learnstocode/
-- I'm still trying to figure this site out...so I apologize if it's a mess in the beginning. :) 
+- 💚 Visit my portfolio site @ https://lissiemarie90.tech/index.html
 
 <!---
 lissiemarie/lissiemarie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
